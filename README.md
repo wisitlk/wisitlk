@@ -30,10 +30,7 @@ Senior Analyst and Software Developer with over 5 years of experience specializi
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
 
-## 📈 My GitHub Stats
-![Saint's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=monokai)
 
 ---
 *Connect with me:*
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Portfolio](https://YOUR_PORTFOLIO_URL)
+[LinkedIn](https://th.linkedin.com/in/wisit-luangsanam-525a56129) | [Portfolio](bettaplakad.me)
