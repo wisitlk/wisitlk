@@ -5,7 +5,7 @@ Senior Analyst and Software Developer with over 5 years of experience specializi
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Senior Analyst Software Developer** at Azure Computer.
 - 🌱 I’m currently developing skills in **Java Spring Boot 3** and **System Design** for high-scale financial systems.
-- 🏢 Previously worked at **Accenture** and **Aureus Company Limited** on major banking projects like SCB, InnovestX, and TTB.
+- 🏢 Previously worked at **Accenture** and **Aureus Company Limited** on major banking projects.
 - 🎓 Studying for a **Master's Degree** on weekends.
 - 💬 Ask me about **Microservices, Kafka, Azure Event Hubs, and Payment Gateways**.
 - ⚡ Fun fact: I'm currently studying for my **TOEIC/IELTS** exams to enhance my global communication skills.
